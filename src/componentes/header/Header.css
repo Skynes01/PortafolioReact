@@ -1,0 +1,41 @@
+header{
+    background-image:url('header2.png');
+    background-repeat:no-repeat;
+    display:flex;
+    padding:50px;
+    max-height:300px;
+
+}
+
+.foto{
+    flex-basis:50%;
+    text-align:center;
+}
+
+.foto img{
+    max-width:150px;
+    border-radius:20%;
+    border:3px solid orange;
+}
+
+.texto{
+    flex-basis:60%;
+}
+
+.texto h1{
+    color: black;
+}
+.texto h3{
+    font-weight:200;
+    color: black;
+
+    
+}
+
+.texto h2{
+    text-align: left; 
+}
+
+.nombre{
+    color: orange;
+}
