@@ -1,0 +1,40 @@
+.contacto{
+    flex-basis:50%;
+    padding-left:20px;
+}
+
+.info{
+    margin-bottom:5px;
+}
+
+.info i{
+    background-color:#0BAFE3;
+    padding:10px;
+    border-radius:50%;
+    margin-right:10px;
+    font-size:20px;
+}
+
+.ref i{
+    font-size:2em;
+    color: #274257;
+    padding:10px;
+}
+
+.refnombre{
+    font-weight:500;
+}
+
+.enlaces img{
+    max-width:150px;
+}
+
+h2{
+    text-align:center;
+}
+
+hr{
+    border-bottom:4px solid orange;
+    width:55%;
+    margin:5px auto;
+}
