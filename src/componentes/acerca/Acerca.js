@@ -18,7 +18,7 @@ function Acerca(){
             </div>
 
              <div className="estudio">
-                <h4>PRESETE AÑO </h4>
+                <h4>PRESENTE AÑO-2021</h4>
                 <p>En el presente año estoy realizando el tecnólogo en ADSI, cada vez aprendiendo nuevos conocimientos</p>
             </div>
 
@@ -29,11 +29,7 @@ function Acerca(){
              <div className="habilidades"> HTML y CSS <progress max="100" value="70">70%</progress></div>
              <div className="habilidades"> Java <progress max="100" value="50">50%</progress></div>
 
-
-
         </div>
-
-            
 
         </div>
     );
